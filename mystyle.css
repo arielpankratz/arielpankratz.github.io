@@ -14,16 +14,26 @@ h1{
     border-color: black;
 }
 
-p{
-    text-align: center;
-    text-transform: uppercase;
+.biopic{
+    float: left;
+    width: 200px;
+    padding-bottom: 70px;
+    padding-right: 15px;
+    padding-left: 10px;
+}
+
+.byline{
+    font-family: Georgia;
+    float: left;
     font-size: 20px;
+    padding-left: 15px;
+    padding-top: 100px;
 }
 
 blockquote{
     font-weight: 100;
     color: red;
-    padding: 70px;
+    padding-top: 400px;
     font-family: courier new;
     letter-spacing: 2px;
 }
@@ -31,9 +41,9 @@ blockquote{
 
 .image{
     background-image:
-    url("img/Worf.jpg" );
+    url("img/leaves.jpg" );
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 100px;
     padding-top: 50px;
 }
