@@ -1,5 +1,5 @@
 body{
-    background-color: lightgray;
+    background-color: lightblue;
 }
 
 h1{
@@ -8,7 +8,7 @@ h1{
     width: 100%;
     text-align:center;
     font-family: cursive;
-    color: blue;
+    color: white;
     font-weight: 100;
     border-bottom: 2px solid;
     border-color: black;
@@ -32,7 +32,7 @@ h1{
 
 blockquote{
     font-weight: 100;
-    color: red;
+    color: white;
     padding-top: 400px;
     font-family: courier new;
     letter-spacing: 2px;
